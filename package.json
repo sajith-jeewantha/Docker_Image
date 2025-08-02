@@ -1,0 +1,7 @@
+{
+  "name": "docker_image",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "5.1.0"
+  }
+}
