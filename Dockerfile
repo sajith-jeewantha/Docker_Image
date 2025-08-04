@@ -8,4 +8,6 @@ WORKDIR /app
 
 RUN npm install
 
+#3000:3000
+
 CMD ["node","server.js"]
